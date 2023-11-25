@@ -7,6 +7,26 @@ Faça **_3 rotas de api_** com mecanicas de uso de **_passagem de parametro_** n
 const { nome_do_parametro_url } = req.query;
 ```
 
+### Passos iniciais
+
+Clone esse projeto para sua maquina:
+
+```bash
+git clone url_do_projeto
+```
+
+Para inciar pacotes essenciais do projeto desse repositorio execute:
+
+```bash
+npm install
+```
+
+Para Executar o projeto desse repositorio execute:
+
+```bash
+npm run dev
+```
+
 ### Estrutura de pastas
 
     |-- pages/
